@@ -1781,8 +1781,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLBVrgpCpAnw2ZHjdSrdjasj6crrD1RBgm
+Base : https://chat.whatsapp.com/EcQ9l310H3A680NPXf3Hah
+Recode : https://chat.whatsapp.com/EcQ9l310H3A680NPXf3Hah
 `
 }
 exports.tos = (ownernomer) => {
