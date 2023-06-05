@@ -1,6 +1,6 @@
 const fs = require('fs')
 const chalk = require('chalk')
-const  { indonesia, english, spanyol} = require(`./language`)
+const  {  english} = require(`./language`)
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -27,7 +27,7 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+global.botname = "Miku" //namabot kalian
 global.ownername= "ᴹᴿ᭄ RASHMIKA ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
@@ -35,10 +35,10 @@ global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "janith20062006@gmail.com" //bebas
 global.region = "Sri Lanka" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['94717775628'] //premium user
-global.owner = ["94717775628"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "94717775628" // nomor wa kalian
-global.ownernomerr = "+94717775628" //nmr wa kalian
+global.premium = ['201554861890'] //premium user
+global.owner = ["201554861890"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "201554861890" // nomor wa kalian
+global.ownernomerr = "+201554861890" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
