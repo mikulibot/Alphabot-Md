@@ -734,7 +734,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 *📚 List-Menu Alphabot-Md :*
 
 ╭─❒ 「 Bot Info 」 
-│○ !owner
+│○ !المالك
 │○ !rules
 │○ !sc
 │○ !ping
